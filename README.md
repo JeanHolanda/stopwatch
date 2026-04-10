@@ -1,82 +1,74 @@
 # ⏱️ Stopwatch
 
-## 🇺🇸 About the project
+A dynamic stopwatch application focused on real-time updates, time control and user interaction using JavaScript.
 
-A simple stopwatch application built to practice JavaScript fundamentals in real scenarios, such as:
-
-* DOM manipulation  
-* Event handling  
-* `setInterval` and `clearInterval`  
-* Conditional logic  
-* Ternary operator  
-
-The project simulates a stopwatch where users can start, pause and reset the timer, with real-time updates on the screen.
+🔗 **Live Demo:** https://jeanholanda.github.io/stopwatch/
 
 ---
 
-## 🇧🇷 Sobre o projeto
+## About the project
 
-Um cronômetro simples desenvolvido para praticar fundamentos de JavaScript em cenários reais, como:
+This project is an interactive stopwatch developed to simulate time tracking functionality using JavaScript.
 
-* Manipulação do DOM  
-* Eventos  
-* `setInterval` e `clearInterval`  
-* Condicionais  
-* Operador ternário  
+It allows users to start, pause and reset the timer, focusing on real-time updates, state control and time-based logic.
 
-O projeto simula um cronômetro onde o usuário pode iniciar, pausar e resetar o tempo, com atualização em tempo real na tela.
+---
+
+## Sobre o projeto
+
+Este projeto é um cronômetro interativo desenvolvido para simular uma funcionalidade de controle de tempo utilizando JavaScript.
+
+Ele permite iniciar, pausar e resetar o tempo, com foco em atualização em tempo real, controle de estado e lógica baseada em tempo.
 
 ---
 
 ## 🎯 Purpose
 
-This project was created to strengthen my JavaScript fundamentals, especially working with time functions and user interactions.
+The main goal of this project is to improve my JavaScript skills, especially:
+
+- Working with time-based functions  
+- Managing application state  
+- Handling user interactions  
 
 ---
 
 ## 🚀 Technologies
 
-* HTML5  
-* CSS3  
-* JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
 
 ---
 
-## 🎯 Features
+## ✨ Features
 
-* ▶️ Start the stopwatch  
-* ⏸️ Pause the timer  
-* 🔄 Reset to initial state  
-* ⏱️ Real-time time update  
-* 🎯 Time formatting (MM:SS)  
-* 🎨 Dynamic button style changes  
+- ▶️ Starting the stopwatch  
+- ⏸️ Pausing the timer  
+- 🔄 Resetting to initial state  
+- ⏱️ Updating time in real time  
+- 🎯 Formatting time display (MM:SS)  
+- 🎨 Updating UI dynamically based on state  
 
 ---
 
 ## 💡 What I learned
 
-* How to use `setInterval` and `clearInterval`  
-* How to control application state with variables  
-* How to format time dynamically  
-* How to handle user interactions with events  
-* How to update the DOM in real time  
+- Using `setInterval` and `clearInterval`  
+- Managing application state with variables  
+- Formatting time dynamically  
+- Handling user interactions with events  
+- Updating the DOM in real time  
 
 ---
 
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JeanHolanda/stopwatch/1b722f0f990d68451f667124ff33937ab978c7ea/assets/Minimalist%20Website%20Launch%20Computer%20Mockup%20Instagram%20Post.png" width="700">
+  <img src="https://raw.githubusercontent.com/JeanHolanda/stopwatch/1b722f0f990d68451f667124ff33937ab978c7ea/assets/Minimalist%20Website%20Launch%20Computer%20Mockup%20Instagram%20Post.png" width="650">
 </p>
-
----
-
-## 🔗 Live Demo
-
-👉 https://jeanholanda.github.io/stopwatch/
 
 ---
 
 ## 🧑‍💻 Author
 
-Jean Holanda 🚀
+Developed by Jean Holanda 🚀
